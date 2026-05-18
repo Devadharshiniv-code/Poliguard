@@ -231,7 +231,7 @@ This project was developed as an MSc Computing dissertation at **Northumbria Uni
 **Devadharshini Venkatesan**  
 MSc Computing (Distinction) — Northumbria University  
 CompTIA Security+  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [Email](mailto:devaviji29@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/devadharshini-venkatesan/)
 
 ---
 
