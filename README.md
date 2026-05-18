@@ -19,7 +19,7 @@ Upload a privacy policy document (PDF, TXT, or DOCX) and PoliGuard will:
 
 | Upload a policy | Select a category | Get a plain-English summary |
 |---|---|---|
-| ![upload](Result%20images/layout.png) | ![category](Result%20images/category%20index.png) | ![summary](Result%20images/suma-1.png) |
+| ![upload](result_images/layout.png) | ![category](result_images/category_index.png) | ![summary](result_images/summary_output_1.png) |
 
 ---
 
